@@ -3,9 +3,9 @@
 /workspace.xml
 # Rider ignored files
 /modules.xml
-/projectSettingsUpdater.xml
 /contentModel.xml
-/.idea.AspnetMicroservices.iml
+/projectSettingsUpdater.xml
+/.idea.aspnetrun-microservices.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
